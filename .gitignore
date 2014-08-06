@@ -1,0 +1,11 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+.idea
+FoxUniversalImageLoader/bin
+FoxUniversalImageLoader/build
+FoxUniversalImageLoader/test-gen
+*.iml
